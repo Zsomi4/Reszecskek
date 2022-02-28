@@ -1,0 +1,26 @@
+/*
+ * File: style.css
+ * Author: Gubis Zsombor Dániel
+ * Copyright: 2022, Gubis Zsombor Dániel
+ * Group: Szoft_I_N
+ * Date: 2022-02-21
+ * Github: https://github.com/Zsomi4/
+ * Licenc: GNU GPL  
+ */
+
+.container {
+    background-color: greenyellow;
+    margin: 25;
+    padding: 15px;
+    border-radius: 5px;
+    border: solid 2px green;
+    box-shadow: 15px 15px 15px goldenrod;
+}
+
+input {
+    margin-bottom: 3px
+}
+
+h1 {
+    font-family: sans-serif;
+}
